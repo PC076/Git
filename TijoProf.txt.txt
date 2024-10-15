@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SIga vigo
+=======
+ai que eles estão me a bater 
+>>>>>>> colab1
